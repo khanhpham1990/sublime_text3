@@ -1,0 +1,38 @@
+{
+	"auto_complete": true,
+	"auto_indent": true,
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity (SL).tmTheme",
+	"content_highlight_bar": true,
+	"detect_indentation": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"high_visibility_enabled_by_default": true,
+	"highlight_color_blue": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"index_files": true,
+	"rulers":
+	[
+		92
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"smart_indent": true,
+	"tab_font_small": true,
+	"tab_height_short": true,
+	"tab_height_tall": true,
+	"tab_size": 2,
+	"theme": "Gravity.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"Autocomplete Javascript with Method Signature",
+		"Babel",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Codecs33",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSSLint",
+		"Dockerfile Syntax Highlighting",
+		"ERB Autocomplete",
+		"ERB Snippets",
+		"ES6-Toolkit",
+		"GitGutter",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"RuboCop",
+		"RubyMotion Autocomplete",
+		"SCSS",
+		"SublimeERB",
+		"SublimeREPL",
+		"Theme - Gravity",
+		"Twitter Recess",
+		"View In Browser",
+		"Vn Ime"
+	]
+}

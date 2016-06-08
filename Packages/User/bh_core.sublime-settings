@@ -1,0 +1,50 @@
+{
+  "bracket_styles": {
+    "default": {
+      "icon": "dot",
+      "color": "brackethighlighter.default",
+      "style": "underline"
+    },
+    "unmatched": {
+      "icon": "question",
+      "color": "brackethighlighter.unmatched",
+      "style": "outline"
+    },
+    "curly": {
+      "icon": "curly_bracket",
+      "color": "brackethighlighter.curly"
+    },
+    "round": {
+      "icon": "round_bracket",
+      "color": "brackethighlighter.round"
+    },
+    "square": {
+      "icon": "square_bracket",
+      "color": "brackethighlighter.square"
+    },
+    "angle": {
+      "icon": "angle_bracket",
+      "color": "brackethighlighter.angle"
+    },
+    "tag": {
+      "icon": "tag",
+      "color": "brackethighlighter.tag"
+    },
+    "c_define": {
+      "icon": "hash",
+      "color": "brackethighlighter.c_define"
+    },
+    "single_quote": {
+      "icon": "single_quote",
+      "color": "brackethighlighter.quote"
+    },
+    "double_quote": {
+      "icon": "double_quote",
+      "color": "brackethighlighter.quote"
+    },
+    "regex": {
+      "icon": "star",
+      "color": "brackethighlighter.quote"
+    }
+  }
+}
